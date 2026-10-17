@@ -1,0 +1,10 @@
+Grille,Algo,Nœuds explorés,Temps (ms),Longueur chemin
+10x10x10,BFS,807,5.576,27
+10x10x10,A* (Manhattan),687,6.01,27
+10x10x10,A* (Manhattan x2),31,0.413,27
+20x20x20,BFS,6347,51.592,57
+20x20x20,A* (Manhattan),5666,54.107,57
+20x20x20,A* (Manhattan x2),92,1.029,67
+30x30x30,BFS,21632,160.779,87
+30x30x30,A* (Manhattan),19783,186.944,87
+30x30x30,A* (Manhattan x2),97,0.913,93
